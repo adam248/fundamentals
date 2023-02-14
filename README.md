@@ -7,3 +7,9 @@ This is both meant to be a reference for future me and a display of the subjects
 This is not representive of my total current understanding of these technologies as I have only been recently inspired to create this repo. I wish I created something similar a lot earlier in my dev journey.
 
 This is designed with Github's UI in mind for easy reference and review.
+
+### Note Regarding commint message shorthand
+- `+` = add or including
+- `-` = remove or deleting
+- `%` = modifying or editing
+- `!` = a fix or correction
