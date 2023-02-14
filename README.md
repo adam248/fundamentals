@@ -8,7 +8,7 @@ This is not representive of my total current understanding of these technologies
 
 This is designed with Github's UI in mind for easy reference and review.
 
-### Note Regarding commint message shorthand
+### Note Regarding commit message shorthand
 - `+` = add or including
 - `-` = remove or deleting
 - `%` = modifying or editing
