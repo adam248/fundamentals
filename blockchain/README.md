@@ -6,3 +6,5 @@ Now we use intermederies and third-parties to validate scarcity (banks, courts, 
 
 Now we can use code itself to replace vast parts of the banking system, legal system and even governments.
 The nations that bravly adpot these new technologies (with careful consideration to consumer protection), will find that trade and commerce will become much more efficent and productive.
+
+Bitcoin is the first successful and longest publicly running blockchain. It has survived many attacks and competition so far. It is proving to be much more resiliant than many people thought it would be.
