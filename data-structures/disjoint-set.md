@@ -1,7 +1,7 @@
 # Disjoint Set
 
-[Wikipedia: Disjoint-set data structure](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
-[Algorithm: Union Find](https://github.com/adam248/fundamentals/blob/master/algorithms/union_find.ipynb)
+[Wikipedia: Disjoint-set data structure](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)  
+[Algorithm: Union Find](https://github.com/adam248/fundamentals/blob/master/algorithms/union_find.ipynb)  
 
 
 A disjoint-set data structure is useful in a variety of practical applications, including:
