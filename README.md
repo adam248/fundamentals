@@ -8,8 +8,11 @@ This is not representive of my total current understanding of these technologies
 
 This is designed with Github's UI in mind for easy reference and review.
 
-### Note Regarding commit message shorthand
-- `+` = add or including
-- `-` = remove or deleting
-- `%` = modifying or editing
-- `!` = a fix or correction
+### Commit Message Shorthand Legend
+
+| Symbol | Meaning |
+| --- | --- |
+| `+` | add or create |
+| `-` | delete or remove |
+| `%` | edit or modify |
+| `!` | correct or fix |
